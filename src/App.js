@@ -11,8 +11,8 @@ function App() {
       <h2 className='mt-16 uppercase font-extrabold text-xl'>
         Login to your account
       </h2>
-      <input type="text" placeholder="Email Address" required className="w-11/12 mt-4 p-4 outline outline-gray-200"></input>
-      <input type="password" placeholder="Password" required className="w-11/12 mt-4 p-4 outline outline-gray-200"></input>
+      <input type="text" placeholder="Email Address" required className="w-11/12 mt-4 p-4 outline outline-gray-200 focus:outline-brand"></input>
+      <input type="password" placeholder="Password" required className="w-11/12 mt-4 p-4 outline outline-gray-200 focus:outline-brand"></input>
       <br></br>
       <div className='text-left'>
         <input type="checkbox" className='mt-4 mx-2 accent-brand' value="remember"></input>
