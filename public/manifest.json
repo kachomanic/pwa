@@ -6,7 +6,7 @@
   "display_override": ["standalone", "fullscreen"],
   "display": "standalone",
   "lang": "es-MX",
-  "name": "PWA Kud",
+  "name": "Kubota",
   "short_name": "Kubo App",
   "orientation": "portrait",
   "icons": [
